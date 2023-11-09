@@ -17,6 +17,11 @@ ul {
   padding: 20px;
 }
 
+ul li {
+    background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
 
   
 
