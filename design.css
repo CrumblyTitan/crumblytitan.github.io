@@ -14,12 +14,13 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  border-style: solid;
 }
 
 
 h1 {
   color: #000000;
-  text-align: left;
+  text-align: center;
   font-size: 30px;
 } 
 
