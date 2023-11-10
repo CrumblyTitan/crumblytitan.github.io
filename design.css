@@ -1,27 +1,13 @@
 body {
-  background-color: lightblue;
-}
-
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
+  background-color: green;
 }
 
 ul {
-  background: #d6c986;
-  padding: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-ul li {
-    background: #cce5ff;
-  color: darkblue;
-  margin: 5px;
-}
 
   
 
