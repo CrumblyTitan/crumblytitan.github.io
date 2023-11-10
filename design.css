@@ -11,7 +11,7 @@ ul {
 li a {
   float: left;
   display: block;
-  color: #009999;
+  background-color: #009999;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
