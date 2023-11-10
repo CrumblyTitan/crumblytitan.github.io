@@ -8,6 +8,12 @@ ul {
   padding: 0;
 }
 
+li a {
+  display: inline;
+  display: block;
+  width: 60px;
+} 
+
 
   
 
