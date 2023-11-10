@@ -9,7 +9,6 @@ ul {
 }
 
 li a {
-  display: inline;
   display: block;
   width: 60px;
 } 
