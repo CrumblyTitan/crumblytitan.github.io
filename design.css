@@ -5,7 +5,8 @@ body {
 .header {
   background-color: #00b3b3;
   text-align: center;
-  padding: 20px;
+  padding: 30px;
+  margin: 10px;
 }
   
 ul {
