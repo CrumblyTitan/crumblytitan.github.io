@@ -13,7 +13,7 @@ ul {
   margin: 0;
 }
 
-li a {
+.topnav a {
   float: left;
   display: block;
   background-color: #33cccc;
@@ -21,6 +21,10 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
   border-right: 1px solid #bbb;
+}
+
+.topnav a:hover {
+  background-color: #ccccb3;
 }
 
 li:kleurmodellen {
