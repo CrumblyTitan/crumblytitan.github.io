@@ -37,10 +37,13 @@ h1 {
   font-size: 30px;
 } 
 
-h2 {
+.welkomtekst a {
   color: #000000
   border: solid
-  padding: 20px;
+  padding-right: 15px;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
 }
 
 
