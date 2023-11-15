@@ -38,6 +38,7 @@ h1 {
 } 
 
 .welkomtekst a {
+  font-size: 10px;
   color: #000000;
   border: solid;
   padding-right: 15px;
