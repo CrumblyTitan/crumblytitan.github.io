@@ -1,1 +1,51 @@
+body {
+  background-color: #ccffcc;
+}
 
+.header {
+  background-color: #00b3b3;
+  text-align: center;
+  padding: 30px;
+  margin: 10px;
+}
+  
+ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  background-color: #33cccc;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-right: 1px solid #bbb;
+}
+
+.topnav a:hover {
+  background-color: #ccccb3;
+}
+
+li:kleurmodellen {
+  border-right: none
+}
+
+h1 {
+  color: #000000;
+  font-size: 30px;
+} 
+
+.column {
+  .column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
