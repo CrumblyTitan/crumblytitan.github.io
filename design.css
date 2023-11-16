@@ -37,7 +37,7 @@ h1 {
   font-size: 30px;
 } 
 
-.welkomtekst a {
+.bottom {
   font-size: 8px;
   color: #000000;
   border-style: solid;
@@ -45,8 +45,10 @@ h1 {
   padding-left: 8px;
   padding-bottom: 8px;
   padding-top: 8px;
-  vertical-align: bottom;
   background-color: #ffffff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
 
