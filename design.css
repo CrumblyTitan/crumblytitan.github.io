@@ -38,13 +38,14 @@ h1 {
 } 
 
 .welkomtekst a {
-  font-size: 10px;
+  font-size: 8px;
   color: #000000;
-  border: solid;
-  padding-right: 15px;
+  border-style: solid;
+  padding-right: 10px;
   padding-left: 8px;
   padding-bottom: 8px;
   padding-top: 8px;
+  vertical-align: bottom;
 }
 
 
