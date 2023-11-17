@@ -14,10 +14,14 @@ ul {
   margin: 0;
 }
 
+.topnav {
+  background-color: #33cccc;
+  overflow: hidden;
+}
+
 .topnav a {
   float: left;
   display: block;
-  background-color: #33cccc;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
