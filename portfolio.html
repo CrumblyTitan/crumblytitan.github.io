@@ -13,5 +13,34 @@
         <a href="portfolio.html">Portfolio</a>
         <a href="kleurmodellen.html">Kleurmodellen</a>
       </div>
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+<div class="row">
+  <div class="column">
+    <h2>Project 1</h2>
+    <p>Hallo</p>
+  </div>
+  
+  <div class="column">
+    <h2>Project 2</h2>
+    <p>Hallo</p>
+  </div>
+  
+  <div class="column">
+    <h2>Project 3</h2>
+    <p>Hallo</p>
+  </div>
+</div>
     </body>
 </html>
