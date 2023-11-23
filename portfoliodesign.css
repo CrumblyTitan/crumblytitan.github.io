@@ -43,7 +43,7 @@ h1 {
 
 .column {
   width: 33,33%;
-  float: none;
+  float: left;
 }
 
 .row::after {
