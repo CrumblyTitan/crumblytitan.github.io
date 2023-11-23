@@ -41,5 +41,15 @@ h1 {
   font-size: 30px;
 } 
 
+.column {
+  width: 33,33%;
+  float: none;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 
