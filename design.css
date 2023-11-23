@@ -22,6 +22,7 @@ ul {
 .topnav a {
   float: left;
   display: block;
+  padding: 14px 16px;
   text-align: center;
   text-decoration: none;
   border-right: 1px solid #bbb;
