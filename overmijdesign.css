@@ -1,1 +1,43 @@
+body {
+  background-color: #ccffcc;
+}
+
+.header {
+  background-color: #00b3b3;
+  text-align: center;
+  padding: 30px;
+  margin: 0px;
+}
+  
+ul {
+  list-style-type: none;
+  margin: 0px;
+}
+
+.topnav {
+  background-color: #33cccc;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+  border-right: 1px solid #bbb;
+}
+
+.topnav a:hover {
+  background-color: #ccccb3;
+}
+
+li:kleurmodellen {
+  border-right: none
+}
+
+h1 {
+  color: #000000;
+  font-size: 30px;
+} 
 
